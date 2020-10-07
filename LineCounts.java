@@ -1,10 +1,5 @@
-// TEAM1
-// LAB EX 10
 
-/*
-To count the number of lines in each files that are specified on the command line
-*/
-package lab.ex.pkg10;
+package labex10;
 
 //importing packages
 
