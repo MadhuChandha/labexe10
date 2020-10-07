@@ -1,11 +1,5 @@
-// TEAM 1
-// LAB EX 10
-/* program using character stream and byte stream for binary files */
-
-//binary files-->audio,image,video files etc
-
-
-package lab.ex.pkg10;
+/
+package labex10;
 
 //importing package
 import java.io.FileInputStream;
