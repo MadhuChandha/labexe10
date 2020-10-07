@@ -1,12 +1,5 @@
-// TEAM 1
-// LAB EX 10
-/*
- FILE HANDLING
-To check file availability,readable or writable or both,file type,
-file length in bytes
- */
 
-package lab.ex.pkg10;
+package labex10;
 
 //importing packages
 import java.io.File;
